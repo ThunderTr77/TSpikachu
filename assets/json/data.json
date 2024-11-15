@@ -1,0 +1,20 @@
+{
+    "timedefault" : "Time",
+    "time" : 180,
+    "levels" : {
+        "easy" : 4,
+        "medium" : 6,
+        "difficult" : 8,
+        "extremely" : 10
+    },
+    "audios": {
+        "audioChon": "./assets/audio/chon.mp3",
+        "audioChonSai": "./assets/audio/chonsai.mp3",
+        "audioChonDung": "./assets/audio/chondung.mp3",
+        "audioWin": "./assets/audio/win.mp3",
+        "audioBomb": "./assets/audio/bomb.mp3",
+        "audioGameStart": "./assets/audio/game-start.mp3",
+        "audioNhac": "./assets/audio/nhac.mp3"
+    },
+    "__comment": "Đang cập nhật"
+}
